@@ -1,17 +1,17 @@
-#HARNO tagasiside korjamise projekt
+# HARNO tagasiside korjamise projekt
 
-###Projekti eesmärk
+### Projekti eesmärk
 Projekti eesmärgiks on luua HARNO profiõppe pilootmudelile maanudmisleht. 
 
 Veebirakendus asub (_05.05.2022_)
 <pre>htv5.ikt.khk.ee</pre>
 
-###Pivotaltracker
+### Pivotaltracker
 
 Projekti haldus toimub pivotaltrackeris. Seal on kõik vajalikud funktsionaalsused dokumenteeritud.
 <pre>https://www.pivotaltracker.com/n/projects/2567176</pre>
 
-###Vajalikud ressursid andmebaasi loomiseks
+### Vajalikud ressursid andmebaasi loomiseks
 Server: Localhost via UNIX socket<br />
 Server type: MariaDB<br />
 Server version: 10.3.34-MariaDB - MariaDB Server<br />
@@ -60,7 +60,7 @@ INSERT INTO erialad(eriala_nimi, eriala_kirjeldus, eriala_pilt) VALUES ('CNC Ope
 </pre>
 </details>
 	
-###Projekti koostasid:
+### Projekti koostasid:
 Roomet Sütt</br>
 Robin Rattasep</br>
 Marcus Kruuleht</br>
