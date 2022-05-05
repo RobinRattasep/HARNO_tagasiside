@@ -127,3 +127,50 @@ input[type=text], input[type=password] {
 .placeholderimg1 {
     margin-left: 600px;
 }
+
+
+.placheholderimg5 {
+    margin-right: 250px;
+}
+
+.paragraph1 {
+    text-align: center;
+    border-width: medium;
+    width: 700px;
+    margin-top: 30px;
+    margin-left: 600px;
+}
+
+
+.checkboxes {
+    text-align:center;
+}
+
+.checkboxes input{
+    margin: 0px 0px 0px 0px;
+}
+
+.checkboxes label{
+    margin: 0px 20px 0px 3px;
+}
+
+.checkboxtext {
+    text-align: ;
+}
+
+.eriala {
+    text-align: center;
+}
+
+.erialadiv {
+    margin: auto;
+    width: 50%;
+    padding: 20px;
+}
+
+.otherspecialty {
+    text-align: center;
+    margin: auto;
+    width: 60%;
+    padding: 20px;
+}
